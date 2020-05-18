@@ -8,7 +8,7 @@ public interface ProtocolInfo {
 
     int CURRENT_PROTOCOL = 390;
 
-    String MINECRAFT_VERSION_NETWORK = "1.14.60";
+    String MINECRAFT_VERSION_NETWORK = "1.14";
 
     byte LOGIN_PACKET = 0x01;
     byte DISCONNECT_PACKET = 0x05;
